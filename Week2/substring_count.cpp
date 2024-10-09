@@ -5,8 +5,6 @@ int main() {
     string subs;
     cin >> s;
     cin >> subs;
-    cout << subs << '\n';
-    cout << s << '\n';
     int count = 0;
     for (int i = 0; i < s.length(); i++) {
         string s1 = "";
