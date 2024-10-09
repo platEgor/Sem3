@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    system("chcp 1251");
     string s;
     string subs;
     cin >> s;
